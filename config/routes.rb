@@ -1,4 +1,4 @@
 AjaxCommentDemo::Application.routes.draw do
-  root 'comments#index'
+  root to: 'comments#index'
   resources :comments
 end
