@@ -1,3 +1,6 @@
 Comment.create(content: "Hello world")
 Comment.create(content: "Goodbye cruel world")
 Comment.create(content: "Ajax is hard")
+Photo.create(url: "http://www.bubblews.com/assets/images/news/1118087390_1357122683.jpg")
+Photo.create(url: "http://4.bp.blogspot.com/-MzZCzWI_6Xc/UIUQp1qPfzI/AAAAAAAAHpA/OTwHCJSWFAY/s1600/cats_animals_kittens_cat_kitten_cute_desktop_1680x1050_hd-wallpaper-753974.jpeg")
+Photo.create(url: "http://jasonlefkowitz.net/wp-content/uploads/2013/07/Cute-Cats-cats-33440930-1280-800.jpg")

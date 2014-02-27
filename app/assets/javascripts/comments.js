@@ -11,8 +11,7 @@ $(document).ready(function() {
   });
 });
 
-CommentApp = {
-}
+CommentApp = CommentApp || {};
 
 CommentApp.renderAllComments = function(comments) {
   var numComments = comments.length, i = 0;
