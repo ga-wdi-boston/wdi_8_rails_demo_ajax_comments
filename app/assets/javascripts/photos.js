@@ -11,7 +11,7 @@ $(document).ready(function() {
   });
 });
 
-CommentApp = CommentApp || {};
+var CommentApp = CommentApp || {};
 
 CommentApp.renderAllPhotos = function(photos) {
   var numPhotos = photos.length, i = 0;
